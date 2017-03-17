@@ -20,6 +20,8 @@ pip install jupyter
 
 Clone this repository and start Jupyter typing
 ```bash
+git clone https://github.com/mary-alegro/caffe_tutorial_thw
+cd caffe_tutorial_thw
 jupyter notebook --ip 0.0.0.0
 ```
 
